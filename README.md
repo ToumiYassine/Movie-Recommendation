@@ -1,5 +1,5 @@
-# movie-recommendation-system-
-Build a movie recommendation system and deploy with Streamlit
+# movie-recommendation-system
+**Build a movie recommendation system and deploy with Streamlit**
 
 -Data cleaning and processing with Numpy and Pandas.
 
